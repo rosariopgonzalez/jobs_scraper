@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Ofertas Laborales - Startups</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 20px; background-color: #f4f6f9; color: #333; }
+        .container { max-width: 1100px; margin: 0 auto; }
+        h1 { text-align: center; color: #2c3e50; margin-bottom: 30px; }
+        .tabs { display: flex; justify-content: center; margin-bottom: 20px; gap: 10px; }
+        .tab-btn { padding: 10px 20px; border: none; background-color: #e0e0e0; cursor: pointer; font-size: 16px; border-radius: 5px; transition: 0.3s; }
+        .tab-btn.active { background-color: #3498db; color: white; font-weight: bold; }
+        .panel { display: none; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .panel.active { display: block; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #f8f9fa; color: #2c3e50; }
+        .btn { display: inline-block; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 14px; font-weight: bold; text-align: center; }
+        .btn-green { background-color: #2ecc71; color: white; }
+        .btn-blue { background-color: #0077b5; color: white; }
+        .btn-disabled { background-color: #95a5a6; color: white; pointer-events: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dashboard de Búsqueda Laboral</h1>
+        
+        <div class="tabs">
+            <button class="tab-btn active" onclick="cambiarTab('bolsas')">Bolsas de Trabajo</button>
+            <button class="tab-btn" onclick="cambiarTab('linkedin-tab')">Revisión en LinkedIn</button>
+        </div>
+
+        <div id="bolsas" class="panel active">
+            <h2>Sitios de Carreras Detectados Automáticamente</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Empresa</th>
+                        <th>Sitio Web Principal</th>
+                        <th>Bolsa de Trabajo / Careers</th>
+                    </tr>
+                </thead>
+                <tbody id="tabla-bolsas"></tbody>
+            </table>
+        </div>
+
+        <div id="linkedin-tab" class="panel">
+            <h2>Acceso directo a sección empleos en LinkedIn</h2>
+            <p>Hacé clic en el botón para ir directamente a la sección de empleos de la empresa en LinkedIn.</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Empresa</th>
+                        <th>Búsqueda Directa en LinkedIn</th>
+                    </tr>
+                </thead>
+                <tbody id="tabla-linkedin"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
