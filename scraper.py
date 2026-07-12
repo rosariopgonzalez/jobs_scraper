@@ -2,6 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import requests
+from selenium.webdriver.chrome.options import Options
+options = Options()
+options.add_argument("--headless") 
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+driver = webdriver.Chrome(options=options)
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import json
