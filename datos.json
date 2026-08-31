@@ -1,177 +1,21 @@
 [
     {
-        "nombre": "Renaiss",
-        "web": "https://renaiss.io/",
+        "nombre": "Qactuslab",
+        "web": "https://qactuslab.com/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/renaiss/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/qactuslab/jobs/"
     },
     {
-        "nombre": "Fullfoto",
-        "web": "https://www.fullfoto.com/",
+        "nombre": "Higrow",
+        "web": "https://www.higrow.ai/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/fullfoto/jobs/"
-    },
-    {
-        "nombre": "Roxiumlabs",
-        "web": "https://www.roxiumlabs.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/roxiumlabs/jobs/"
-    },
-    {
-        "nombre": "Warecloud",
-        "web": "http://www.warecloud.ar/",
-        "bolsa_trabajo": "http://www.warecloud.ar/#contact",
-        "linkedin_jobs": "https://www.linkedin.com/company/warecloud/jobs/"
-    },
-    {
-        "nombre": "Mavios",
-        "web": "https://mavios.ai/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/mavios/jobs/"
-    },
-    {
-        "nombre": "Fintelligentia",
-        "web": "https://fintelligentia.com/",
-        "bolsa_trabajo": "https://fintelligentia.com/#careers",
-        "linkedin_jobs": "https://www.linkedin.com/company/fintelligentia/jobs/"
-    },
-    {
-        "nombre": "Sensify",
-        "web": "https://sensify.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/sensify/jobs/"
-    },
-    {
-        "nombre": "Neuronic",
-        "web": "https://neuronic.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/neuronic/jobs/"
-    },
-    {
-        "nombre": "Fiwind",
-        "web": "https://fiwind.io/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/fiwind/jobs/"
-    },
-    {
-        "nombre": "Biocle",
-        "web": "https://biocle.tech/",
-        "bolsa_trabajo": "https://ecobiz.com.ar/nota/1533-Crearon-compuestos-que-hacen-un-delivery-biologico-para-mejorar-la-salud-intestinal",
-        "linkedin_jobs": "https://www.linkedin.com/company/biocle/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/higrow/jobs/"
     },
     {
         "nombre": "Tecso",
         "web": "https://tecso.coop/",
-        "bolsa_trabajo": "https://tecso.coop/careers/",
+        "bolsa_trabajo": null,
         "linkedin_jobs": "https://www.linkedin.com/company/tecso/jobs/"
-    },
-    {
-        "nombre": "Lactoenergy",
-        "web": "https://lactoenergy.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/lactoenergy/jobs/"
-    },
-    {
-        "nombre": "Sima",
-        "web": "https://sima.ag/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/sima/jobs/"
-    },
-    {
-        "nombre": "Obrok",
-        "web": "https://obrok.ai/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/obrok/jobs/"
-    },
-    {
-        "nombre": "Tera",
-        "web": "https://tera.coop.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/tera/jobs/"
-    },
-    {
-        "nombre": "Urbsdata",
-        "web": "http://www.urbsdata.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/urbsdata/jobs/"
-    },
-    {
-        "nombre": "Scitrix",
-        "web": "https://scitrix.tech/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/scitrix/jobs/"
-    },
-    {
-        "nombre": "Mycoriumbiotech",
-        "web": "https://www.mycoriumbiotech.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/mycoriumbiotech/jobs/"
-    },
-    {
-        "nombre": "Colloquia",
-        "web": "http://colloquia.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/colloquia/jobs/"
-    },
-    {
-        "nombre": "Agrosintex",
-        "web": "https://agrosintex.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/agrosintex/jobs/"
-    },
-    {
-        "nombre": "Coasa",
-        "web": "http://www.coasa.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/coasa/jobs/"
-    },
-    {
-        "nombre": "Reba",
-        "web": "https://reba.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/reba/jobs/"
-    },
-    {
-        "nombre": "Nucomex",
-        "web": "https://nucomex.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/nucomex/jobs/"
-    },
-    {
-        "nombre": "Smod",
-        "web": "https://www.smod.io/",
-        "bolsa_trabajo": "https://www.instagram.com/reel/C6bjorlrSfp/",
-        "linkedin_jobs": "https://www.linkedin.com/company/smod/jobs/"
-    },
-    {
-        "nombre": "Nat4bio",
-        "web": "https://nat4bio.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/nat4bio/jobs/"
-    },
-    {
-        "nombre": "Kreskornatech",
-        "web": "https://www.kreskornatech.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/kreskornatech/jobs/"
-    },
-    {
-        "nombre": "Dharmabioscience",
-        "web": "https://dharmabioscience.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/dharmabioscience/jobs/"
-    },
-    {
-        "nombre": "Momentum",
-        "web": "https://momentum.io/",
-        "bolsa_trabajo": "https://momentum.io/careers",
-        "linkedin_jobs": "https://www.linkedin.com/company/momentum/jobs/"
-    },
-    {
-        "nombre": "Efficast",
-        "web": "https://efficast.ai/en/homes/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/efficast/jobs/"
     },
     {
         "nombre": "Polluxcoop",
@@ -180,70 +24,16 @@
         "linkedin_jobs": "https://www.linkedin.com/company/polluxcoop/jobs/"
     },
     {
-        "nombre": "Movizen",
-        "web": "https://movizen.com/",
+        "nombre": "Nat4bio",
+        "web": "https://nat4bio.com/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/movizen/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/nat4bio/jobs/"
     },
     {
-        "nombre": "Kodear",
-        "web": "https://kodear.dev/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/kodear/jobs/"
-    },
-    {
-        "nombre": "Tintte",
-        "web": "https://www.tintte.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/tintte/jobs/"
-    },
-    {
-        "nombre": "Empretienda",
-        "web": "https://empretienda.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/empretienda/jobs/"
-    },
-    {
-        "nombre": "Ecloud",
-        "web": "https://ecloud.agency/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/ecloud/jobs/"
-    },
-    {
-        "nombre": "Adgoat",
-        "web": "https://adgoat.io/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/adgoat/jobs/"
-    },
-    {
-        "nombre": "Clovinn",
-        "web": "https://www.clovinn.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/clovinn/jobs/"
-    },
-    {
-        "nombre": "Waia",
-        "web": "https://waia.ar/",
-        "bolsa_trabajo": "https://waia.ar/caso/sancristobal",
-        "linkedin_jobs": "https://www.linkedin.com/company/waia/jobs/"
-    },
-    {
-        "nombre": "Terragene",
-        "web": "https://www.terragene.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/terragene/jobs/"
-    },
-    {
-        "nombre": "Lazo",
-        "web": "https://www.lazo.us/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/lazo/jobs/"
-    },
-    {
-        "nombre": "Lbfinanzas",
-        "web": "https://lbfinanzas.com/",
-        "bolsa_trabajo": "https://lbfinanzas.com/equipo",
-        "linkedin_jobs": "https://www.linkedin.com/company/lbfinanzas/jobs/"
+        "nombre": "Biocle",
+        "web": "https://biocle.tech/",
+        "bolsa_trabajo": "https://ecobiz.com.ar/nota/1533-Crearon-compuestos-que-hacen-un-delivery-biologico-para-mejorar-la-salud-intestinal",
+        "linkedin_jobs": "https://www.linkedin.com/company/biocle/jobs/"
     },
     {
         "nombre": "Exomas",
@@ -252,136 +42,16 @@
         "linkedin_jobs": "https://www.linkedin.com/company/exomas/jobs/"
     },
     {
-        "nombre": "Syocin",
-        "web": "https://syocin.com/",
+        "nombre": "Dharmabioscience",
+        "web": "https://dharmabioscience.com/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/syocin/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/dharmabioscience/jobs/"
     },
     {
-        "nombre": "Bioceresgroup",
-        "web": "https://bioceresgroup.com/",
+        "nombre": "Efficast",
+        "web": "https://efficast.ai/en/homes/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/bioceresgroup/jobs/"
-    },
-    {
-        "nombre": "Involvepr",
-        "web": "https://involvepr.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/involvepr/jobs/"
-    },
-    {
-        "nombre": "Diagnostica",
-        "web": "https://www.diagnostica.io/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/diagnostica/jobs/"
-    },
-    {
-        "nombre": "Radiumrocket",
-        "web": "https://radiumrocket.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/radiumrocket/jobs/"
-    },
-    {
-        "nombre": "Agrodrone",
-        "web": "https://www.agrodrone.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/agrodrone/jobs/"
-    },
-    {
-        "nombre": "Syloper",
-        "web": "http://www.syloper.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/syloper/jobs/"
-    },
-    {
-        "nombre": "Redjar",
-        "web": "https://redjar.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/redjar/jobs/"
-    },
-    {
-        "nombre": "Michroma",
-        "web": "https://michroma.co/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/michroma/jobs/"
-    },
-    {
-        "nombre": "Zafirus",
-        "web": "http://www.zafirus.tech/",
-        "bolsa_trabajo": "http://www.zafirus.tech/opportunities",
-        "linkedin_jobs": "https://www.linkedin.com/company/zafirus/jobs/"
-    },
-    {
-        "nombre": "Groowthly",
-        "web": "https://www.groowthly.lat/",
-        "bolsa_trabajo": "https://www.groowthly.lat/#comofunciona",
-        "linkedin_jobs": "https://www.linkedin.com/company/groowthly/jobs/"
-    },
-    {
-        "nombre": "Truware",
-        "web": "https://truware.tech/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/truware/jobs/"
-    },
-    {
-        "nombre": "Glofy",
-        "web": "https://glofy.co/es",
-        "bolsa_trabajo": "https://glofy.co/en/glofers/jobs",
-        "linkedin_jobs": "https://www.linkedin.com/company/glofy/jobs/"
-    },
-    {
-        "nombre": "Muumercadoganadero",
-        "web": "https://muumercadoganadero.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/muumercadoganadero/jobs/"
-    },
-    {
-        "nombre": "Onlines",
-        "web": "https://onlines.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/onlines/jobs/"
-    },
-    {
-        "nombre": "Teramot",
-        "web": "https://teramot.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/teramot/jobs/"
-    },
-    {
-        "nombre": "Sbi-technology",
-        "web": "https://sbi-technology.com/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/sbi-technology/jobs/"
-    },
-    {
-        "nombre": "Doc24",
-        "web": "https://doc24.com.ar/",
-        "bolsa_trabajo": "https://doc24.hiringroom.com/jobs",
-        "linkedin_jobs": "https://www.linkedin.com/company/doc24/jobs/"
-    },
-    {
-        "nombre": "Wobox",
-        "web": "https://www.wobox.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/wobox/jobs/"
-    },
-    {
-        "nombre": "Aveneris",
-        "web": "https://aveneris.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/aveneris/jobs/"
-    },
-    {
-        "nombre": "Kindalab",
-        "web": "https://kindalab.co/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/kindalab/jobs/"
-    },
-    {
-        "nombre": "Surhive",
-        "web": "https://www.surhive.com/",
-        "bolsa_trabajo": "https://www.surhive.com/#careers",
-        "linkedin_jobs": "https://www.linkedin.com/company/surhive/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/efficast/jobs/"
     },
     {
         "nombre": "Nativas",
@@ -390,64 +60,40 @@
         "linkedin_jobs": "https://www.linkedin.com/company/nativas/jobs/"
     },
     {
-        "nombre": "Taxon",
-        "web": "https://taxon.tech/",
+        "nombre": "Neuronic",
+        "web": "https://neuronic.com.ar/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/taxon/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/neuronic/jobs/"
     },
     {
-        "nombre": "Qactuslab",
-        "web": "https://qactuslab.com/",
+        "nombre": "Mavios",
+        "web": "https://mavios.ai/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/qactuslab/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/mavios/jobs/"
     },
     {
-        "nombre": "Notfossil",
-        "web": "https://notfossil.co/",
+        "nombre": "Coasa",
+        "web": "http://www.coasa.com.ar/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/notfossil/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/coasa/jobs/"
     },
     {
-        "nombre": "Liscreativestudio",
-        "web": "https://liscreativestudio.com/",
+        "nombre": "Colloquia",
+        "web": "http://colloquia.com.ar/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/liscreativestudio/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/colloquia/jobs/"
     },
     {
-        "nombre": "Wearekadre",
-        "web": "https://wearekadre.com/",
+        "nombre": "Sbi-technology",
+        "web": "https://sbi-technology.com/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/wearekadre/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/sbi-technology/jobs/"
     },
     {
-        "nombre": "Liqui",
-        "web": "https://liqui.app/",
-        "bolsa_trabajo": "https://jobs.liqui.app",
-        "linkedin_jobs": "https://www.linkedin.com/company/liqui/jobs/"
-    },
-    {
-        "nombre": "Juriia",
-        "web": "https://www.juriia.com/",
+        "nombre": "Teramot",
+        "web": "https://teramot.com/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/juriia/jobs/"
-    },
-    {
-        "nombre": "Tepy",
-        "web": "https://tepy.app/en/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/tepy/jobs/"
-    },
-    {
-        "nombre": "Indigenius",
-        "web": "https://indigenius.site/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/indigenius/jobs/"
-    },
-    {
-        "nombre": "Deepagro",
-        "web": "https://deepagro.com.ar/",
-        "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/deepagro/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/teramot/jobs/"
     },
     {
         "nombre": "Prendo",
@@ -456,10 +102,106 @@
         "linkedin_jobs": "https://www.linkedin.com/company/prendo/jobs/"
     },
     {
+        "nombre": "Truware",
+        "web": "https://truware.tech/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/truware/jobs/"
+    },
+    {
+        "nombre": "Syocin",
+        "web": "https://syocin.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/syocin/jobs/"
+    },
+    {
+        "nombre": "Ecloud",
+        "web": "https://ecloud.agency/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/ecloud/jobs/"
+    },
+    {
+        "nombre": "Glofy",
+        "web": "https://glofy.co/es",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/glofy/jobs/"
+    },
+    {
+        "nombre": "Lazo",
+        "web": "https://www.lazo.us/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/lazo/jobs/"
+    },
+    {
+        "nombre": "Kreskornatech",
+        "web": "https://www.kreskornatech.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/kreskornatech/jobs/"
+    },
+    {
+        "nombre": "Syloper",
+        "web": "http://www.syloper.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/syloper/jobs/"
+    },
+    {
+        "nombre": "Empretienda",
+        "web": "https://empretienda.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/empretienda/jobs/"
+    },
+    {
+        "nombre": "Terragene",
+        "web": "https://www.terragene.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/terragene/jobs/"
+    },
+    {
         "nombre": "Jplabs",
         "web": "https://jplabs.studio/",
         "bolsa_trabajo": null,
         "linkedin_jobs": "https://www.linkedin.com/company/jplabs/jobs/"
+    },
+    {
+        "nombre": "Fullfoto",
+        "web": "https://www.fullfoto.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/fullfoto/jobs/"
+    },
+    {
+        "nombre": "Wearekadre",
+        "web": "https://wearekadre.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/wearekadre/jobs/"
+    },
+    {
+        "nombre": "Notfossil",
+        "web": "https://notfossil.co/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/notfossil/jobs/"
+    },
+    {
+        "nombre": "Kindalab",
+        "web": "https://kindalab.co/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/kindalab/jobs/"
+    },
+    {
+        "nombre": "Urbsdata",
+        "web": "http://www.urbsdata.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/urbsdata/jobs/"
+    },
+    {
+        "nombre": "Michroma",
+        "web": "https://michroma.co/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/michroma/jobs/"
+    },
+    {
+        "nombre": "Agrosintex",
+        "web": "https://agrosintex.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/agrosintex/jobs/"
     },
     {
         "nombre": "Brocosolutions",
@@ -468,9 +210,267 @@
         "linkedin_jobs": "https://www.linkedin.com/company/brocosolutions/jobs/"
     },
     {
-        "nombre": "Higrow",
-        "web": "https://www.higrow.ai/",
+        "nombre": "Scitrix",
+        "web": "https://scitrix.tech/",
         "bolsa_trabajo": null,
-        "linkedin_jobs": "https://www.linkedin.com/company/higrow/jobs/"
+        "linkedin_jobs": "https://www.linkedin.com/company/scitrix/jobs/"
+    },
+    {
+        "nombre": "Tera",
+        "web": "https://tera.coop.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/tera/jobs/"
+    },
+    {
+        "nombre": "Momentum",
+        "web": "https://momentum.io/",
+        "bolsa_trabajo": "https://momentum.io/careers",
+        "linkedin_jobs": "https://www.linkedin.com/company/momentum/jobs/"
+    },
+    {
+        "nombre": "Groowthly",
+        "web": "https://www.groowthly.lat/",
+        "bolsa_trabajo": "https://www.groowthly.lat/#comofunciona",
+        "linkedin_jobs": "https://www.linkedin.com/company/groowthly/jobs/"
+    },
+    {
+        "nombre": "Fiwind",
+        "web": "https://fiwind.io/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/fiwind/jobs/"
+    },
+    {
+        "nombre": "Redjar",
+        "web": "https://redjar.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/redjar/jobs/"
+    },
+    {
+        "nombre": "Clovinn",
+        "web": "https://www.clovinn.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/clovinn/jobs/"
+    },
+    {
+        "nombre": "Taxon",
+        "web": "https://taxon.tech/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/taxon/jobs/"
+    },
+    {
+        "nombre": "Lbfinanzas",
+        "web": "https://lbfinanzas.com/",
+        "bolsa_trabajo": "https://lbfinanzas.com/equipo",
+        "linkedin_jobs": "https://www.linkedin.com/company/lbfinanzas/jobs/"
+    },
+    {
+        "nombre": "Nucomex",
+        "web": "https://nucomex.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/nucomex/jobs/"
+    },
+    {
+        "nombre": "Renaiss",
+        "web": "https://renaiss.io/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/renaiss/jobs/"
+    },
+    {
+        "nombre": "Obrok",
+        "web": "https://obrok.ai/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/obrok/jobs/"
+    },
+    {
+        "nombre": "Waia",
+        "web": "https://waia.ar/",
+        "bolsa_trabajo": "https://waia.ar/caso/sancristobal",
+        "linkedin_jobs": "https://www.linkedin.com/company/waia/jobs/"
+    },
+    {
+        "nombre": "Diagnostica",
+        "web": "https://www.diagnostica.io/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/diagnostica/jobs/"
+    },
+    {
+        "nombre": "Agrodrone",
+        "web": "https://www.agrodrone.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/agrodrone/jobs/"
+    },
+    {
+        "nombre": "Indigenius",
+        "web": "https://indigenius.site/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/indigenius/jobs/"
+    },
+    {
+        "nombre": "Surhive",
+        "web": "https://www.surhive.com/",
+        "bolsa_trabajo": "https://www.surhive.com/#careers",
+        "linkedin_jobs": "https://www.linkedin.com/company/surhive/jobs/"
+    },
+    {
+        "nombre": "Roxiumlabs",
+        "web": "https://www.roxiumlabs.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/roxiumlabs/jobs/"
+    },
+    {
+        "nombre": "Tintte",
+        "web": "https://www.tintte.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/tintte/jobs/"
+    },
+    {
+        "nombre": "Movizen",
+        "web": "https://movizen.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/movizen/jobs/"
+    },
+    {
+        "nombre": "Sensify",
+        "web": "https://sensify.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/sensify/jobs/"
+    },
+    {
+        "nombre": "Liqui",
+        "web": "https://liqui.app/",
+        "bolsa_trabajo": "https://jobs.liqui.app",
+        "linkedin_jobs": "https://www.linkedin.com/company/liqui/jobs/"
+    },
+    {
+        "nombre": "Bioceresgroup",
+        "web": "https://bioceresgroup.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/bioceresgroup/jobs/"
+    },
+    {
+        "nombre": "Onlines",
+        "web": "https://onlines.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/onlines/jobs/"
+    },
+    {
+        "nombre": "Reba",
+        "web": "https://reba.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/reba/jobs/"
+    },
+    {
+        "nombre": "Sima",
+        "web": "https://sima.ag/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/sima/jobs/"
+    },
+    {
+        "nombre": "Wobox",
+        "web": "https://www.wobox.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/wobox/jobs/"
+    },
+    {
+        "nombre": "Kodear",
+        "web": "https://kodear.dev/",
+        "bolsa_trabajo": "https://kodear.dev/es-AR/join-us",
+        "linkedin_jobs": "https://www.linkedin.com/company/kodear/jobs/"
+    },
+    {
+        "nombre": "Mycoriumbiotech",
+        "web": "https://www.mycoriumbiotech.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/mycoriumbiotech/jobs/"
+    },
+    {
+        "nombre": "Deepagro",
+        "web": "https://deepagro.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/deepagro/jobs/"
+    },
+    {
+        "nombre": "Juriia",
+        "web": "https://www.juriia.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/juriia/jobs/"
+    },
+    {
+        "nombre": "Fintelligentia",
+        "web": "https://fintelligentia.com/",
+        "bolsa_trabajo": "https://fintelligentia.com/#careers",
+        "linkedin_jobs": "https://www.linkedin.com/company/fintelligentia/jobs/"
+    },
+    {
+        "nombre": "Muumercadoganadero",
+        "web": "https://muumercadoganadero.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/muumercadoganadero/jobs/"
+    },
+    {
+        "nombre": "Doc24",
+        "web": "https://doc24.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/doc24/jobs/"
+    },
+    {
+        "nombre": "Lactoenergy",
+        "web": "https://lactoenergy.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/lactoenergy/jobs/"
+    },
+    {
+        "nombre": "Tepy",
+        "web": "https://tepy.app/en/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/tepy/jobs/"
+    },
+    {
+        "nombre": "Liscreativestudio",
+        "web": "https://liscreativestudio.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/liscreativestudio/jobs/"
+    },
+    {
+        "nombre": "Radiumrocket",
+        "web": "https://radiumrocket.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/radiumrocket/jobs/"
+    },
+    {
+        "nombre": "Zafirus",
+        "web": "http://www.zafirus.tech/",
+        "bolsa_trabajo": "http://www.zafirus.tech/opportunities",
+        "linkedin_jobs": "https://www.linkedin.com/company/zafirus/jobs/"
+    },
+    {
+        "nombre": "Involvepr",
+        "web": "https://involvepr.com/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/involvepr/jobs/"
+    },
+    {
+        "nombre": "Smod",
+        "web": "https://www.smod.io/",
+        "bolsa_trabajo": "https://www.instagram.com/reel/C6bjorlrSfp/",
+        "linkedin_jobs": "https://www.linkedin.com/company/smod/jobs/"
+    },
+    {
+        "nombre": "Warecloud",
+        "web": "http://www.warecloud.ar/",
+        "bolsa_trabajo": "http://www.warecloud.ar/#contact",
+        "linkedin_jobs": "https://www.linkedin.com/company/warecloud/jobs/"
+    },
+    {
+        "nombre": "Aveneris",
+        "web": "https://aveneris.com.ar/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/aveneris/jobs/"
+    },
+    {
+        "nombre": "Adgoat",
+        "web": "https://adgoat.io/",
+        "bolsa_trabajo": null,
+        "linkedin_jobs": "https://www.linkedin.com/company/adgoat/jobs/"
     }
 ]
